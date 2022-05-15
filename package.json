@@ -4,9 +4,9 @@
   "main": "index.js",
   "dependencies": {
     "compress-json": "^2.0.1",
-    "jest": "^28.1.0",
-    "jsonminify": "^0.4.2",
-    "typescript": "^4.6.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
   },
   "scripts": {
     "test": "jest"
