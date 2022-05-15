@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "compress-json": "^2.0.1",
+    "compress-json": "^2.0.1"
   },
   "devDependencies": {
     "jest": "^28.1.0"
